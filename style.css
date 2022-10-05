@@ -95,7 +95,7 @@ menu {
 
 .menu__list li {
   list-style-type: none;
-  border-right: 2px solid rgba(228, 228, 228, 255);
+  border-right: 2px solid #ffffff;
   font-size: 18px;
   font-weight: 400;
   padding: 0 16px;
@@ -107,7 +107,7 @@ menu {
 
 .menu__list li a {
   text-decoration: none;
-  color: rgba(228, 228, 228, 255);
+  color: #ffffff;
 }
 
 main {
