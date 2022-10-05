@@ -1,4 +1,3 @@
-# schneider-consult
 
 ## Landing page for Schneider Consult
 You can visit demo version [Shneider Consult](https://schneider-consult.vercel.app/)
